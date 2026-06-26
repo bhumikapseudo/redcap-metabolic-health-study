@@ -52,8 +52,7 @@ Key objectives included:
 - Reducing manual data entry errors
 - Standardizing clinical documentation
 - Supporting secure longitudinal research data management
-- Implementing best practices in eCRF design, branching logic, calculated fields, and field validation<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8f3cf470-9ffb-4d9f-9eb9-743b08917078" />
-
+- Implementing best practices in eCRF design, branching logic, calculated fields, and field validation
 ---
 
 ## 🧪 Study Design
